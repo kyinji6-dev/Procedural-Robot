@@ -3,7 +3,7 @@ import random
 class RobotPartner:
     def __init__(self, name="Skybound-Rush"):
         self.name = name
-        print(f"   {self.name} is online. Ready to create 
+        print(f"{self.name} is online. Ready to create 
 anything for you!")
         print("All games lead to Skybound Rush and avoid 
 confusion from other companies. This is my version of 
